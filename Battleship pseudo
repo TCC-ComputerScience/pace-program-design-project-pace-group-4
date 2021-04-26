@@ -1,0 +1,36 @@
+/* Battleship Part 1
+The program uses a two-dimensional array as the basis for creating a one-player game of battleship. 
+(The computer generates the board and places the ships, and then the player has to guess the ship positions.) 
+PACE 4
+April 26, 2021
+*/
+#include <iostream>
+#include <iomanip>
+
+using namespace std;
+
+//array value
+const int SEA_ROW = 10;
+const int SEA_COL = 10;
+
+void getBoard();
+
+void printBoard();
+
+void setShips();
+
+void shipLoc();
+
+bool FindLoc()
+
+
+int main()
+{
+  int seaArray[SEA_ROW][SEA_COL]; //2D array
+  bool found = false;
+  
+  //call functions
+  
+
+}
+
