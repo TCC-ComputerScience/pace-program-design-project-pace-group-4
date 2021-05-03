@@ -1,8 +1,16 @@
+/*
+    Battleship part 2
+    functions: InitBoard, PlaceShip, PlayGame, PrintBoard implemented
+    Modified by PACE Group 4 members
+    May 03, 2021
+*/
+
 /*Pace Project
   Purpose: To let the user play a one-player game of Battleship
   Written By: Hunter Pollock, Benjamin Johnson, and Zhengyu Jiang
   Last Modified: 4/24/21
-  */
+*/
+
 
   #include <iostream> /*cout*/
   #include <stdlib.h> /*srand, rand*/
